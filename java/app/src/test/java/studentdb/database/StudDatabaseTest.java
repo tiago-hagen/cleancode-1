@@ -32,6 +32,7 @@ abstract class StudDatabaseTest {
   void setUp() {
     database = createDatabase();
     /*Here, let's try to comment some things on this code
+    Now we are doing it with a pull request
     */
   }
 
