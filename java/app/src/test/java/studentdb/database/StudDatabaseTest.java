@@ -31,6 +31,8 @@ abstract class StudDatabaseTest {
   @BeforeEach
   void setUp() {
     database = createDatabase();
+    /*Here, let's try to comment some things on this code
+    */
   }
 
   // Tests for addStudent
